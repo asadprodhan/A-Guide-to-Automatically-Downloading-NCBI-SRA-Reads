@@ -6,7 +6,7 @@
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/Navigating_a_Linux_computer#GPL-3.0-1-ov-file)
+[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA#GPL-3.0-1-ov-file)
 
 
 <br />
