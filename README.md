@@ -300,7 +300,7 @@ done < "$SRA_LIST"
 <br />
 
 
-[2] Put the above script and your Accession List in the same directory and run 
+[2] Put the above script and your Accession List in the same directory
 
 
 <br />
