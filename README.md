@@ -190,7 +190,7 @@ The Accession List will look like this:
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/4.PNG"
- align="center" width=100% height=100% >   
+ align="center" width=50% height=50% >   
 </p>
 <p align = center>
 Figure 4: NCBI SRA Accesssion List.
