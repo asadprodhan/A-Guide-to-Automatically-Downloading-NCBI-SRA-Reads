@@ -226,18 +226,23 @@ Figure 5: NCBI SRA Metadata.
 ## **Download Reads**
 
 
-There are two steps to download the reads
+- There are two steps to download the reads
 
 
-	- The first step will download the reads in SRA format using a command called prefetch
+    - The first step will download the reads in SRA format using a command called prefetch
 
 
-	- The second step will convert the SRA format into fastq using a command called fasterq-dump
+    - The second step will convert the SRA format into fastq using a command called fasterq-dump
  
 
+ <br />
 
-The following script has combined both commands in a single script to automate downloading reads from a list of accessions
+ 
+### **The following script has combined both commands in a single script to automate downloading reads from a list of accessions**
 
+
+ <br />
+ 
 
 ```
 #!/bin/bash
@@ -323,7 +328,7 @@ Now, run the script as follows
 <br />
 
 
-The reads will be automatically downloaded and saved in the reads directory
+### **The reads will be automatically downloaded and saved in the reads directory**
 
 
 <br />
