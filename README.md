@@ -132,11 +132,10 @@ We will use the Bioproject from the following publication as an example:
 https://www.sciencedirect.com/science/article/pii/S094450131930970X#sec0010
 
 
-
 - Open the NCBI SRA
 
 
-  https://www.ncbi.nlm.nih.gov/sra/docs/
+https://www.ncbi.nlm.nih.gov/sra/docs/
 
 
 - Search the Bioproject number as follows
@@ -176,8 +175,7 @@ Figure 2: NCBI SRA Run Selector.
 <br />
 
 
-
-**Click on the Accession List and Metadata as marked on the following screenshot**
+- Click on the Accession List and Metadata as marked on the following screenshot
 
 
 <br />
@@ -196,7 +194,7 @@ Figure 3: NCBI SRA Accesssion List and Metadata.
 
 
 
-The Accession List will look like this:
+- The Accession List will look like this
 
 
 
@@ -216,7 +214,7 @@ Figure 4: NCBI SRA Accesssion List.
 
 
 
-The Metadata will look like this:
+- The Metadata will look like this
 
 
 
@@ -235,7 +233,7 @@ Figure 5: NCBI SRA Metadata.
 <br />
 
 
- <br />
+<br />
 
  
 
