@@ -12,6 +12,7 @@
 <br />
 
 
+<br />
 
 
 ## **Step 1: Download and setup the SRA Tool Kit**
@@ -61,7 +62,10 @@ export PATH=$PATH:path/to/sratoolkits/sratoolkit.3.1.1-ubuntu64/bin
 > Note that there should not be any space on either sides of the "=" sign in the above command
 
 
-### **However, you log out, the path will drop from the PATH variable. If you want to add the above (or any path) to the PATH variable permanently, then follow the following steps:
+<br />
+
+
+### **However, you log out, the path will drop from the PATH variable. If you want to add the above (or any path) to the PATH variable permanently, then follow the following steps:**
 
 
 
@@ -79,6 +83,8 @@ Now, copy and paste the following command in the bashrc profile, save and close.
 export PATH=$PATH:path/to/sratoolkits/sratoolkit.3.1.1-ubuntu64/bin
 ```
 
+
+<br />
 
 
 ### **Has the sratoolkit been added to your PATH variable?**
@@ -99,6 +105,7 @@ fasterq-dump
 Now, you are ready to download the reads from the NCBI SRA
 
 
+<br />
 
 
 ## **Collect SRA Accession Numbers**
@@ -154,7 +161,7 @@ Figure 2: NCBI SRA Run Selector.
 
 
 
-Click on the Accession List and Metadata as marked on the following screenshot
+**Click on the Accession List and Metadata as marked on the following screenshot**
 
 
 <br />
@@ -212,6 +219,8 @@ Figure 5: NCBI SRA Metadata.
 <br />
 
 
+ <br />
+
  
 
 ## **Download Reads**
@@ -256,15 +265,26 @@ done < "$SRA_LIST"
 > Note that the older versions of prefetch cannot locate the reads in the NCBI SRA. You need to use the latest version.
 
 
+<br />
+
+
 
 Download the script [here](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/prefetch_fasterq-dump.sh) and save as prefetch_fasterq-dump.sh 
+
+
+<br />
 
 
 Put the above script and your Accession List in the same directory and run 
 
 
+<br />
+
+
 Run the following command to confirm that both documents are in unix format
 
+
+<br />
 
 
 ```
@@ -272,7 +292,13 @@ dos2unix *
 ```
 
 
+<br />
+
+
 Run the following command to confirm that you have execution permission
+
+
+<br />
 
 
 ```
@@ -280,12 +306,21 @@ chmod +x *
 ```
 
 
+<br />
+
+
 Now, run the script as follows
+
+
+<br />
 
 
 ```
 ./prefetch_fasterq-dump.sh
 ```
+
+
+<br />
 
 
 The reads will be automatically downloaded and saved in the reads directory
@@ -305,6 +340,8 @@ Figure 6: Automatic NCBI SRA Read Download.
 
 <br />
 
+
+<br />
 
 
 ## **POTENTIAL ERRORS**
