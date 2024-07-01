@@ -15,7 +15,7 @@
 <br />
 
 
-## **Step 1: Download and setup the SRA Tool Kit**
+## **Step 1: Download and Setup the SRA Tool Kit**
 
 
 <br />
@@ -121,7 +121,7 @@ Now, you are ready to download the reads from the NCBI SRA
 <br />
 
 
-## **Collect SRA Accession Numbers**
+## **Step 2: Collect SRA Accession Numbers**
 
 
 <br />
@@ -237,7 +237,7 @@ Figure 5: NCBI SRA Metadata.
 
  
 
-## **Download Reads**
+## **Step 3: Download Reads**
 
 
 <br />
