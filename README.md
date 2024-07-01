@@ -58,7 +58,7 @@ export PATH=$PATH:path/to/sratoolkits/sratoolkit.3.1.1-ubuntu64/bin
 ```
 
 
-> Note that there should not be any space on either side of the "=" sign in the above command
+> Note that there should not be any space on either sides of the "=" sign in the above command
 
 
 ### **However, you log out, the path will drop from the PATH variable. If you want to add the above (or any path) to the PATH variable permanently, then follow the following steps:
