@@ -18,6 +18,9 @@
 ## **Step 1: Download and setup the SRA Tool Kit**
 
 
+<br />
+
+
 - Create a directory on your Linux Desktop
 
 
@@ -68,6 +71,8 @@ export PATH=$PATH:path/to/sratoolkits/sratoolkit.3.1.1-ubuntu64/bin
 ### **However, you log out, the path will drop from the PATH variable. If you want to add the above (or any path) to the PATH variable permanently, then follow the following steps:**
 
 
+<br />
+
 
 ```
 nano ./bashrc
@@ -90,6 +95,9 @@ export PATH=$PATH:path/to/sratoolkits/sratoolkit.3.1.1-ubuntu64/bin
 ### **Has the sratoolkit been added to your PATH variable?**
 
 
+<br />
+
+
 To test, get out of your current directory and run the following command:
 
 
@@ -98,8 +106,13 @@ fasterq-dump
 ```
 
 
+<br />
+
+
 > fasterq-dump is one of the executibles located in the sra tool kit bin directory. If the sra tool kit has been added to your PATH variable, the above command should be run from any directory in your Linux computer without needing to specifying the path of its executible in the command. And the above command will produce the usage options on the screen. Then, it's all good!
 
+
+<br />
 
 
 Now, you are ready to download the reads from the NCBI SRA
@@ -109,6 +122,9 @@ Now, you are ready to download the reads from the NCBI SRA
 
 
 ## **Collect SRA Accession Numbers**
+
+
+<br />
 
 
 We will use the Bioproject from the following publication as an example:
@@ -226,6 +242,9 @@ Figure 5: NCBI SRA Metadata.
 ## **Download Reads**
 
 
+<br />
+
+
 - There are two steps to download the reads
 
 
@@ -265,6 +284,9 @@ done < "$SRA_LIST"
 
 # The end
 ```
+
+
+<br />
 
 
 > Note that the older versions of prefetch cannot locate the reads in the NCBI SRA. You need to use the latest version.
@@ -352,8 +374,13 @@ Figure 6: Automatic NCBI SRA Read Download.
 ## **POTENTIAL ERRORS**
 
 
+<br />
+
+
 - If you get an error that the SRR_Acc_List.txt is a non-kart file, then change the file extension from txt to kart 
 
+
+<br />
 
 
 ```
@@ -368,6 +395,8 @@ And run the script again
 ./prefetch_fasterq-dump.sh
 ```
 
+
+<br />
 
 
 - If you get the following error, then it suggests that you might need to use the latest version of prefetch and fasterq-dump. You specify the versions as prefetch3.1.1 or so on. See the above script.
@@ -384,6 +413,8 @@ And run the script again
 <p align = center>
 Figure 7: Version Conflict.
 </p>
+
+<br />
 
 <br />
 
