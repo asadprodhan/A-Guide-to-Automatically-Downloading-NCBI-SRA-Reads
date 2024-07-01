@@ -294,19 +294,19 @@ done < "$SRA_LIST"
 
 
 
-Download the script [here](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/prefetch_fasterq-dump.sh) and save as prefetch_fasterq-dump.sh 
+[1] Download the script [here](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/prefetch_fasterq-dump.sh) and save as prefetch_fasterq-dump.sh 
 
 
 <br />
 
 
-Put the above script and your Accession List in the same directory and run 
+[2] Put the above script and your Accession List in the same directory and run 
 
 
 <br />
 
 
-Run the following command to confirm that both documents are in unix format
+[3] Run the following command to confirm that both documents are in unix format
 
 
 <br />
@@ -320,7 +320,7 @@ dos2unix *
 <br />
 
 
-Run the following command to confirm that you have execution permission
+[4] Run the following command to confirm that you have execution permission
 
 
 <br />
@@ -334,7 +334,7 @@ chmod +x *
 <br />
 
 
-Now, run the script as follows
+[5] Now, run the script as follows
 
 
 <br />
