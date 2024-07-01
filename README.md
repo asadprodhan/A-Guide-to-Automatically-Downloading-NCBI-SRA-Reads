@@ -1,18 +1,29 @@
-# **How to automatically download reads from the NCBI SRA?** <br />
+<h1 align="center">Protocol for automatically downloading NCBI SRA reads</h1>
+
+
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
+
+
+<div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
+
+
+<div align="center"><b> 3 Baron-Hay Court, South Perth, WA  6151, Australia. <sup>*</sup>Correspondence: prodhan82@gmail.com </b></div>
 
 
 <br />
 
 
-### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
+<p align="center">
+  <a href="https://zenodo.org/doi/10.5281/zenodo.11410229"><img src="https://zenodo.org/badge/808414840.svg" alt="DOI"></a>
+</p>
 
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA#GPL-3.0-1-ov-file)
+
+
+<br />
 
 
 <br />
 
-
-<br />
 
 
 ## **Step 1: Download and Setup the SRA Tool Kit**
