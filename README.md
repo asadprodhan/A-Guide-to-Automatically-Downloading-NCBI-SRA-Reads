@@ -38,16 +38,16 @@ Here, I present a guide on how to automatically download the NCBI SRA reads of y
 ### Content
 
 
-[01.  Step 1: Download and Setup the SRA Tool Kit](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-1-download-and-setup-the-sra-tool-kit)
+[Step 1: Download and Setup the SRA Tool Kit](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-1-download-and-setup-the-sra-tool-kit)
 
 
-[02.  Step 2: Collect SRA Accession Numbers](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-2-collect-sra-accession-numbers)
+[Step 2: Collect SRA Accession Numbers](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-2-collect-sra-accession-numbers)
 
 
-[03.  Step 3: Download Reads](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-3-download-reads)
+[Step 3: Download Reads](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#step-3-download-reads)
 
 
-[04.  POTENTIAL ERRORS](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#potential-errors)
+[POTENTIAL ERRORS](https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/blob/main/README.md#potential-errors)
 
 
 <br />
