@@ -1,7 +1,7 @@
 <h1 align="center">Protocol for Automatically Downloading NCBI SRA Reads</h1>
 
 
-<h3 align="center">M. Asaduzzaman Prodhan<sup> ,</sup></h3>
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
 
 
 <div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
@@ -14,21 +14,15 @@
 
 
 <p align="center">
-  <a href="https://zenodo.org/doi/10.5281/zenodo.11410229"><img src="https://zenodo.org/badge/808414840.svg" alt="DOI"></a>
+  <a href="https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/tree/main#GPL-3.0-1-ov-file"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0" style="display: inline-block;"></a>
+  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID" style="display: inline-block;"></a>
 </p>
-
-
-<p align="center">
-  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white"></a>
-</p>
-
 
 
 <br />
 
 
 <br />
-
 
 
 ## **Step 1: Download and Setup the SRA Tool Kit**
