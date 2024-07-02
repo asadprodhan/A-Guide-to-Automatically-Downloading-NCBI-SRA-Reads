@@ -78,7 +78,7 @@ sudo wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-
 ```
 
 
-> Visit the NABI SRA Toolkit[1] manual (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) 
+> Visit the NABI SRA Toolkit[^1] manual (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) 
 
 
 - Move the sratoolkits directory in your /usr/bin directory
@@ -98,7 +98,7 @@ pwd
 - Now, add this path to your PATH variable as follows:
 
 
-What is a PATH variable? See an explanation here[2]
+What is a PATH variable? See an explanation here[^2]
 
 
 ```
@@ -171,7 +171,7 @@ Now, you are ready to download the reads from the NCBI SRA
 <br />
 
 
-Here, I am going to use BioProject PRJNA340941[3] for demonstration purpose. This BioProject contains Illumina sequencing of 16S rRNA from a root microbiome study[3]. You can try downloading reads from any study such as transcriptomics[4], mitochondrial genomics [5] etc that has a BioProject number.
+Here, I am going to use BioProject PRJNA340941[^3] for demonstration purpose. This BioProject contains Illumina sequencing of 16S rRNA from a root microbiome study[^3]. You can try downloading reads from any study such as transcriptomics[^4], mitochondrial genomics[^5] etc that has a BioProject number.
 
 
 <br />
@@ -467,4 +467,22 @@ Figure 7: Version Conflict.
 <br />
 
 
-### **The end**
+
+## **REFERENCES**
+
+
+[^1]	‘NCBI SRA Toolkit’. Accessed: Jul. 02, 2024. [Online]. Available: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
+
+
+[^2]	M. A. Prodhan, ‘About the PATH’, Zenodo, Apr. 2024, doi: https://doi.org/10.5281/zenodo.11068991.
+
+
+[^3]	S. Hakim et al., ‘Illumina sequencing of 16S rRNA tag shows disparity in rhizobial and non-rhizobial diversity associated with root nodules of mung bean (Vigna radiata L.) growing in different habitats in Pakistan’, Microbiol. Res., vol. 231, p. 126356, Jan. 2020, doi: 10.1016/j.micres.2019.126356.
+
+
+[^4]	M. A. Prodhan, J. Pariasca-Tanaka, Y. Ueda, P. E. Hayes, and M. Wissuwa, ‘Comparative transcriptome analysis reveals a rapid response to phosphorus deficiency in a phosphorus-efficient rice genotype’, Sci. Rep., vol. 12, no. 1, Art. no. 1, Jun. 2022, doi: 10.1038/s41598-022-13709-w.
+
+
+[^5]	M. A. Prodhan, M. Widmer, T. Kinene, and M. Kehoe, ‘Whole mitochondrial genomes reveal the relatedness of the browsing ant incursions in Australia’, Sci. Rep., vol. 13, no. 1, Art. no. 1, Jun. 2023, doi: 10.1038/s41598-023-37425-1.
+
+
