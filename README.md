@@ -28,6 +28,9 @@
 The National Center for Biotechnology Information (NCBI) is a global public repository that houses a vast collection of genomic information. Within the NCBI, the Sequence Read Archive (SRA) is a dedicated repository for housing the raw DNA sequencing reads that are submitted to the NCBI. Therefore, SRA serves as a critical resource for researchers providing an open-access to millions of sequences from diverse organisms and environments. As such, SRA reads fuel groundbreaking research ranging from genome assembly and variation analysis to transcriptomics and metagenomics.
 
 
+Here, I present a guide on how to automatically download the NCBI SRA reads of your interest.
+
+
 <br />
 
 
