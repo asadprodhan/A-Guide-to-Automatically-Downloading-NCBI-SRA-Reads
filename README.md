@@ -1,4 +1,4 @@
-<h1 align="center">Protocol for Automatically Downloading NCBI SRA Reads</h1>
+<h1 align="center">A Guide to Automatically Downloading NCBI SRA Reads</h1>
 
 
 <h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
