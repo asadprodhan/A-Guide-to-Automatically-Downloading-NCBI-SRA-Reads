@@ -28,6 +28,9 @@
 The National Center for Biotechnology Information (NCBI) is a global public repository that houses a vast collection of genomic information. Within the NCBI, the Sequence Read Archive (SRA) is a dedicated repository for housing the raw DNA sequencing reads that are submitted to the NCBI. Therefore, SRA serves as a critical resource for researchers providing an open-access to millions of sequences from diverse organisms and environments. As such, SRA reads fuel groundbreaking research ranging from genome assembly and variation analysis to transcriptomics and metagenomics.
 
 
+<br />
+
+
 Here, I present a guide on how to automatically download the NCBI SRA reads of your interest.
 
 
@@ -75,7 +78,7 @@ sudo wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-
 ```
 
 
-> Visit: https://github.com/ncbi/sra-tools/wiki/02.-Installing-SRA-Toolkit
+> Visit the NABI SRA Toolkit[1] manual (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) 
 
 
 - Move the sratoolkits directory in your /usr/bin directory
@@ -93,6 +96,9 @@ pwd
 
 
 - Now, add this path to your PATH variable as follows:
+
+
+What is a PATH variable? See an explanation here[2]
 
 
 ```
@@ -160,6 +166,12 @@ Now, you are ready to download the reads from the NCBI SRA
 
 
 ## **Step 2: Collect SRA Accession Numbers**
+
+
+<br />
+
+
+Here, I am going to use BioProject PRJNA340941[3] for demonstration purpose. This BioProject contains Illumina sequencing of 16S rRNA from a root microbiome study[3]. You can try downloading reads from any study such as transcriptomics[4], mitochondrial genomics [5] etc that has a BioProject number.
 
 
 <br />
