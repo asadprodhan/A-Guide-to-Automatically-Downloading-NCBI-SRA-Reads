@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+authors:
+- family-names: "Prodhan"
+  given-names: "M. Asaduzzaman"
+  orcid: "https://orcid.org/0000-0002-1320-3486"
+title: "A Guide to Automatically Downloading NCBI SRA Reads"
+version: 1
+doi: 10.5281/zenodo.12622074
+date-released: '2024-07-02'
+repository-code: "https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/tree/main"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Prodhan"
+    given-names: "M. Asaduzzaman"
+    orcid: "https://orcid.org/0000-0002-1320-3486"
+  doi: "10.5281/zenodo.12622074"
+  journal: "Zenodo"
+  title: "A Guide to Automatically Downloading NCBI SRA Reads"
+  year: 2024
