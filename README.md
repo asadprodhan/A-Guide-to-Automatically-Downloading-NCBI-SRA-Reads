@@ -471,18 +471,20 @@ Figure 7: Version Conflict.
 ## **REFERENCES**
 
 
-[^SRA]:	NCBI SRA Toolkit. Accessed: Jul. 02, 2024. [Online]. Available: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
+[^SRA]: NCBI SRA Toolkit. [cited 2 Jul 2024]. Available: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
 
 
-[^PATH]:	M. A. Prodhan, About the PATH, Zenodo, Apr. 2024, doi: https://doi.org/10.5281/zenodo.11068991.
+
+[^PATH]: Prodhan MA. About the PATH. Zenodo. 2024 [cited 26 Apr 2024]. doi:https://doi.org/10.5281/zenodo.11068991
 
 
-[^Hakim]:	S. Hakim et al., Illumina sequencing of 16S rRNA tag shows disparity in rhizobial and non-rhizobial diversity associated with root nodules of mung bean (Vigna radiata L.) growing in different habitats in Pakistan, Microbiol. Res., vol. 231, p. 126356, Jan. 2020, doi: 10.1016/j.micres.2019.126356.
+[^Hakim]: Hakim S, Mirza BS, Imran A, Zaheer A, Yasmin S, Mubeen F, et al. Illumina sequencing of 16S rRNA tag shows disparity in rhizobial and non-rhizobial diversity associated with root nodules of mung bean (Vigna radiata L.) growing in different habitats in Pakistan. Microbiol Res. 2020;231: 126356. doi:10.1016/j.micres.2019.126356
 
 
-[^RNAseq]:	M. A. Prodhan, J. Pariasca-Tanaka, Y. Ueda, P. E. Hayes, and M. Wissuwa, Comparative transcriptome analysis reveals a rapid response to phosphorus deficiency in a phosphorus-efficient rice genotype, Sci. Rep., vol. 12, no. 1, Art. no. 1, Jun. 2022, doi: 10.1038/s41598-022-13709-w.
+[^RNAseq]: Prodhan MA, Pariasca-Tanaka J, Ueda Y, Hayes PE, Wissuwa M. Comparative transcriptome analysis reveals a rapid response to phosphorus deficiency in a phosphorus-efficient rice genotype. Sci Rep. 2022;12: 9460. doi:10.1038/s41598-022-13709-w
 
 
-[^Mitogenomics]:	M. A. Prodhan, M. Widmer, T. Kinene, and M. Kehoe, Whole mitochondrial genomes reveal the relatedness of the browsing ant incursions in Australia, Sci. Rep., vol. 13, no. 1, Art. no. 1, Jun. 2023, doi: 10.1038/s41598-023-37425-1.
+[^Mitogenomics]: Prodhan MA, Widmer M, Kinene T, Kehoe M. Whole mitochondrial genomes reveal the relatedness of the browsing ant incursions in Australia. Sci Rep. 2023;13: 10273. doi:10.1038/s41598-023-37425-1
+
 
 
